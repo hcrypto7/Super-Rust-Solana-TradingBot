@@ -99,7 +99,4 @@ rustc main.rs
 .\main.exe
 ```
 ---
-## 📞 Support & Contact
-
-For support and further inquiries, please connect via Telegram: 📞 [T-rustdev](https://t.me/T_rustdev).
 
